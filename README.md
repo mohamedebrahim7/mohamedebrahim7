@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ebrahim</h1>
-<h3 align="center">a dedicated software developer passionate about creating impactful applications with Flutter. I leverage my solid academic background to build apps according to industry standards and best practices. I'm deeply interested in the software development life cycle, Test-Driven Development (TDD), design patterns, and building maintainable, clean applications.</h3>
+<h3 align="center">a dedicated software developer passionate about creating impactful applications with Flutter.
+I leverage my solid academic background to build apps according to industry standards and best practices.
+ I'm deeply interested in the software development life cycle, Test-Driven Development (TDD), design patterns, and building maintainable, clean applications.</h3>
 
 - 🌱 I’m currently learning **Advanced Flutter**
 
