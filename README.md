@@ -166,4 +166,22 @@ I leverage my solid academic background to build apps according to industry stan
   </a>
 </p>
 
+---
+
+### 🏢 My GitHub Organization: [Flutter Template Kit](https://github.com/flutter-template-kit)
+
+A curated collection of +15 high-quality **Flutter UI templates** across industries like e-commerce, fintech, social media, food delivery, and education. Built for speed, design inspiration, and app prototyping.
+
+Some of the featured UI kits:
+
+| App Type         | Repository                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| 🎬 Movie Streaming | [flix app](https://github.com/flutter-template-kit/flix_app)              |
+| 🏥 Medical App     | [medilab prokit](https://github.com/flutter-template-kit/medilab_prokit)  |
+| 🛒 Grocery Store   | [grocery flutter](https://github.com/flutter-template-kit/grocery_flutter)|
+| 📚 Learning Platform | [learner flutter](https://github.com/flutter-template-kit/learner_flutter)|
+| 🍣 Restaurant UI   | [flutter japanese restaurant app](https://github.com/flutter-template-kit/flutter_japanese_restaurant_app) |
+| 💳 Wallet UI       | [wallet flutter](https://github.com/flutter-template-kit/wallet_flutter)  |
+
+🔗 **Explore the full collection** → [Flutter Template Kit](https://github.com/flutter-template-kit)
 
