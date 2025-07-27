@@ -1,62 +1,80 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ebrahim</h1>
-<h3 align="center">a dedicated software developer passionate about creating impactful applications with Flutter.
-I leverage my solid academic background to build apps according to industry standards and best practices.
- I'm deeply interested in the software development life cycle, Test-Driven Development (TDD), design patterns, and building maintainable, clean applications.</h3>
+<h3 align="center">
+💻 Senior Flutter Developer | Crafting Scalable, Testable & Impactful Mobile Apps
+</h3>
+
+<p align="center">
+passionate software developer who builds mobile apps that solve real-world problems.
+I focus on clean architecture, test-driven development (TDD), & maintainable code.  
+Currently diving deeper into advanced Flutter practices & scalable team-based development.
+</p>
 
 - 🌱 I’m currently learning **Advanced Flutter**
-
-- 💬 Ask me about **Dart, Flutter, Software Development**
+- 💬 Ask me about **Dart, Flutter, Clean Architecture, TDD, Firebase**
+- 🚀 Always excited to collaborate and build high-quality apps!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed7ebrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed7ebrahim" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohamed7ebrahim" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohamed7ebrahim7@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201271300592" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="130" height="130"/>
   </a>
 </p>
+
 
 <h3 align="left">App Development</h3>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" width="50" height="50"/>
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/ios-icon-logo-software-phone-apple-symbol-with-name-black-design-mobile-illustration-free-vector_1687630747.jpeg" alt="iOS" width="40" height="40"/>
+    <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" alt="Xcode (iOS)" width="50" height="50"/>
   </a>
 </p>
 
 
 <h3 align="left">UI Design Principles</h3>
 <p align="left">
-  <!-- Cupertino Design Principles -->
+  <!-- Cupertino Design -->
   <a href="https://developer.apple.com/design/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/672/953/png-transparent-apple-cupertino-logo-iphone-apple-electronics-company-heart-thumbnail.png" alt="Cupertino Design Principles" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Cupertino Design" width="50" height="50"/>
   </a>
   
-  <!-- Material Design Principles -->
-  <a href="https://material.io/design" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/512px-Google_Material_Design_Logo.svg.png" alt="Material Design" width="40" height="40"/>
+  <!-- Material Design -->
+  <a href="https://m3.material.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/512px-Google_Material_Design_Logo.svg.png" alt="Material Design" width="50" height="50"/>
   </a>
-  
+
   <!-- Responsive Layouts -->
-  <a href="https://www.interaction-design.org/literature/topics/responsive-design" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/41621/responsive-devices.svg" alt="Responsive Layouts" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/41621/responsive-devices.svg" alt="Responsive Layouts" width="50" height="50"/>
   </a>
 </p>
 
@@ -89,6 +107,9 @@ I leverage my solid academic background to build apps according to industry stan
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
   </a>
+  <a href="https://linear.app/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6417e9db62883903b13efe0b_Linear%20Logo.svg" alt="Trello" width="40" height="40"/>
+  </a>
 </p>
 
 
@@ -99,10 +120,10 @@ I leverage my solid academic background to build apps according to industry stan
     <img src="https://pbs.twimg.com/profile_images/1454750074295275522/sIAeM6VH_400x400.jpg" alt="Moyasar" width="40" height="40"/>
   </a>
   <a href="https://www.apple.com/apple-pay/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Apple_Pay_logo.svg/512px-Apple_Pay_logo.svg.png" alt="Apple Pay" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Apple_Pay_logo.svg/512px-Apple_Pay_logo.svg.png" alt="Apple Pay" width="70" height="70"/>
   </a>
   <a href="https://pay.google.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Pay_Logo.svg/2560px-Google_Pay_Logo.svg.png" alt="Google Pay" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Google_Pay_Logo.svg/2560px-Google_Pay_Logo.svg.png" alt="Google Pay" width="70" height="70"/>
   </a>
   <a href="https://www.appmob.com" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/6FiNx8I1FYk8DFnIxPy32vvV0E-YszW7DYNh9kCqGOw0H65GZ0FUYuhPgJtcYsYaofU" alt="AppMob" width="40" height="40"/>
@@ -142,6 +163,27 @@ I leverage my solid academic background to build apps according to industry stan
     <img src="https://codemagic.io/media/landing/press-kit/svg/star-gradient.svg" alt="Codemagic" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Backend Integration</h3>
+<p align="left">
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/500/api-settings.png" alt="REST API" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="WebSocket/Socket.io" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+<h3 align="left">Software Architecture</h3>
+<p align="left">
+  Clean Architecture, Bloc Architecture, MVC, MVP, MVVM, Packaging by Convenience
+</p>
+
 
 
 <h3 align="left">Other Tools:</h3>
