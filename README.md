@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ebrahim</h1>
 <h3 align="center">
-💻 Senior Flutter Developer | Crafting Scalable, Testable & Impactful Mobile Apps
+💻 Lead Flutter Developer | Architecting Secure, Scalable & Mission-Critical Mobile Systems
 </h3>
 
 <p align="center">
-passionate software developer who builds mobile apps that solve real-world problems.
-I focus on clean architecture, test-driven development (TDD), & maintainable code.  
-Currently diving deeper into advanced Flutter practices & scalable team-based development.
-</p>
+I am a Lead Flutter Developer specializing in transforming complex business requirements into high-performance mobile architectures. From hardened Fintech security (RSA/AES) to enterprise-scale e-commerce engines, I focus on building "0 to 1" products that are testable, maintainable, and built for growth.</p>
 
-- 🌱 I’m currently learning **Advanced Flutter**
-- 💬 Ask me about **Dart, Flutter, Clean Architecture, TDD, Firebase**
-- 🚀 Always excited to collaborate and build high-quality apps!
+🔭 Currently Leading: Architectural refactors for high-traffic PropTech and Fintech platforms.
+
+🛡️ Specialties: Clean Architecture, TDD, Cryptographic Security, & Advanced Hardware Integrations (NFC/POS).
+
+🚀 Founder: Flutter Template Kit — an open-source initiative for rapid, standardized app development.
+
+🌱 Deep Dive: Mastering System Design at scale and Advanced Flutter Performance Optimization.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
